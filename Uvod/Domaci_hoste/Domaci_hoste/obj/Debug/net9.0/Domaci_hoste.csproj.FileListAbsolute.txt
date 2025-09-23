@@ -1,0 +1,14 @@
+C:\Users\mottja\source\PR1-1B-2S(2025)\Uvod\Domaci_hoste\Domaci_hoste\bin\Debug\net9.0\Domaci_hoste.exe
+C:\Users\mottja\source\PR1-1B-2S(2025)\Uvod\Domaci_hoste\Domaci_hoste\bin\Debug\net9.0\Domaci_hoste.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\Uvod\Domaci_hoste\Domaci_hoste\bin\Debug\net9.0\Domaci_hoste.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\Uvod\Domaci_hoste\Domaci_hoste\bin\Debug\net9.0\Domaci_hoste.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\Uvod\Domaci_hoste\Domaci_hoste\bin\Debug\net9.0\Domaci_hoste.pdb
+C:\Users\mottja\source\PR1-1B-2S(2025)\Uvod\Domaci_hoste\Domaci_hoste\obj\Debug\net9.0\Domaci_hoste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2025)\Uvod\Domaci_hoste\Domaci_hoste\obj\Debug\net9.0\Domaci_hoste.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\Uvod\Domaci_hoste\Domaci_hoste\obj\Debug\net9.0\Domaci_hoste.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2025)\Uvod\Domaci_hoste\Domaci_hoste\obj\Debug\net9.0\Domaci_hoste.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\Uvod\Domaci_hoste\Domaci_hoste\obj\Debug\net9.0\Domaci_hoste.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\Uvod\Domaci_hoste\Domaci_hoste\obj\Debug\net9.0\refint\Domaci_hoste.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\Uvod\Domaci_hoste\Domaci_hoste\obj\Debug\net9.0\Domaci_hoste.pdb
+C:\Users\mottja\source\PR1-1B-2S(2025)\Uvod\Domaci_hoste\Domaci_hoste\obj\Debug\net9.0\Domaci_hoste.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\Uvod\Domaci_hoste\Domaci_hoste\obj\Debug\net9.0\ref\Domaci_hoste.dll

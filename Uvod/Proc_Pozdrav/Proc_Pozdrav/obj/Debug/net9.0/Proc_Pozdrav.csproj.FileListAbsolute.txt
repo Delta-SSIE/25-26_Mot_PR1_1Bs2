@@ -1,0 +1,4 @@
+C:\Users\mottja\source\PR1-1B-2S(2025)\Uvod\Proc_Pozdrav\Proc_Pozdrav\obj\Debug\net9.0\Proc_Pozdrav.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2025)\Uvod\Proc_Pozdrav\Proc_Pozdrav\obj\Debug\net9.0\Proc_Pozdrav.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\Uvod\Proc_Pozdrav\Proc_Pozdrav\obj\Debug\net9.0\Proc_Pozdrav.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2025)\Uvod\Proc_Pozdrav\Proc_Pozdrav\obj\Debug\net9.0\Proc_Pozdrav.csproj.CoreCompileInputs.cache
