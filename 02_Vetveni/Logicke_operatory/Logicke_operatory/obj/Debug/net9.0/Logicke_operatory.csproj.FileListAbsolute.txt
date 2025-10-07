@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2025)\02_Vetveni\Logicke_operatory\Logicke_operatory\bin\Debug\net9.0\Logicke_operatory.exe
+C:\Users\mottja\source\PR1-1B-2S(2025)\02_Vetveni\Logicke_operatory\Logicke_operatory\bin\Debug\net9.0\Logicke_operatory.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\02_Vetveni\Logicke_operatory\Logicke_operatory\bin\Debug\net9.0\Logicke_operatory.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\02_Vetveni\Logicke_operatory\Logicke_operatory\bin\Debug\net9.0\Logicke_operatory.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\02_Vetveni\Logicke_operatory\Logicke_operatory\bin\Debug\net9.0\Logicke_operatory.pdb
+C:\Users\mottja\source\PR1-1B-2S(2025)\02_Vetveni\Logicke_operatory\Logicke_operatory\obj\Debug\net9.0\Logicke_operatory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2025)\02_Vetveni\Logicke_operatory\Logicke_operatory\obj\Debug\net9.0\Logicke_operatory.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\02_Vetveni\Logicke_operatory\Logicke_operatory\obj\Debug\net9.0\Logicke_operatory.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2025)\02_Vetveni\Logicke_operatory\Logicke_operatory\obj\Debug\net9.0\Logicke_operatory.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\02_Vetveni\Logicke_operatory\Logicke_operatory\obj\Debug\net9.0\Logicke_operatory.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\02_Vetveni\Logicke_operatory\Logicke_operatory\obj\Debug\net9.0\Logicke_operatory.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\02_Vetveni\Logicke_operatory\Logicke_operatory\obj\Debug\net9.0\refint\Logicke_operatory.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\02_Vetveni\Logicke_operatory\Logicke_operatory\obj\Debug\net9.0\Logicke_operatory.pdb
+C:\Users\mottja\source\PR1-1B-2S(2025)\02_Vetveni\Logicke_operatory\Logicke_operatory\obj\Debug\net9.0\Logicke_operatory.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\02_Vetveni\Logicke_operatory\Logicke_operatory\obj\Debug\net9.0\ref\Logicke_operatory.dll
