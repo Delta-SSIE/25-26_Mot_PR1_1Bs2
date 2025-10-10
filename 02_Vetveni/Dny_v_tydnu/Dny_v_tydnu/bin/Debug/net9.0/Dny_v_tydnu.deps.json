@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Dny_v_tydnu/1.0.0": {
+        "runtime": {
+          "Dny_v_tydnu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dny_v_tydnu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

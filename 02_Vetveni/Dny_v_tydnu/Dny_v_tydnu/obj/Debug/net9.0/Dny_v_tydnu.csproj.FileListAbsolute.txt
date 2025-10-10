@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2025)\02_Vetveni\Dny_v_tydnu\Dny_v_tydnu\bin\Debug\net9.0\Dny_v_tydnu.exe
+C:\Users\mottja\source\PR1-1B-2S(2025)\02_Vetveni\Dny_v_tydnu\Dny_v_tydnu\bin\Debug\net9.0\Dny_v_tydnu.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\02_Vetveni\Dny_v_tydnu\Dny_v_tydnu\bin\Debug\net9.0\Dny_v_tydnu.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\02_Vetveni\Dny_v_tydnu\Dny_v_tydnu\bin\Debug\net9.0\Dny_v_tydnu.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\02_Vetveni\Dny_v_tydnu\Dny_v_tydnu\bin\Debug\net9.0\Dny_v_tydnu.pdb
+C:\Users\mottja\source\PR1-1B-2S(2025)\02_Vetveni\Dny_v_tydnu\Dny_v_tydnu\obj\Debug\net9.0\Dny_v_tydnu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2025)\02_Vetveni\Dny_v_tydnu\Dny_v_tydnu\obj\Debug\net9.0\Dny_v_tydnu.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\02_Vetveni\Dny_v_tydnu\Dny_v_tydnu\obj\Debug\net9.0\Dny_v_tydnu.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2025)\02_Vetveni\Dny_v_tydnu\Dny_v_tydnu\obj\Debug\net9.0\Dny_v_tydnu.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\02_Vetveni\Dny_v_tydnu\Dny_v_tydnu\obj\Debug\net9.0\Dny_v_tydnu.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\02_Vetveni\Dny_v_tydnu\Dny_v_tydnu\obj\Debug\net9.0\Dny_v_tydnu.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\02_Vetveni\Dny_v_tydnu\Dny_v_tydnu\obj\Debug\net9.0\refint\Dny_v_tydnu.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\02_Vetveni\Dny_v_tydnu\Dny_v_tydnu\obj\Debug\net9.0\Dny_v_tydnu.pdb
+C:\Users\mottja\source\PR1-1B-2S(2025)\02_Vetveni\Dny_v_tydnu\Dny_v_tydnu\obj\Debug\net9.0\Dny_v_tydnu.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\02_Vetveni\Dny_v_tydnu\Dny_v_tydnu\obj\Debug\net9.0\ref\Dny_v_tydnu.dll
