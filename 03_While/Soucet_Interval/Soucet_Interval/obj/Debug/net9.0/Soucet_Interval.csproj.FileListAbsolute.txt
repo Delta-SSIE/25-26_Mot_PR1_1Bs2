@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Soucet_Interval\Soucet_Interval\bin\Debug\net9.0\Soucet_Interval.exe
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Soucet_Interval\Soucet_Interval\bin\Debug\net9.0\Soucet_Interval.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Soucet_Interval\Soucet_Interval\bin\Debug\net9.0\Soucet_Interval.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Soucet_Interval\Soucet_Interval\bin\Debug\net9.0\Soucet_Interval.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Soucet_Interval\Soucet_Interval\bin\Debug\net9.0\Soucet_Interval.pdb
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Soucet_Interval\Soucet_Interval\obj\Debug\net9.0\Soucet_Interval.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Soucet_Interval\Soucet_Interval\obj\Debug\net9.0\Soucet_Interval.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Soucet_Interval\Soucet_Interval\obj\Debug\net9.0\Soucet_Interval.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Soucet_Interval\Soucet_Interval\obj\Debug\net9.0\Soucet_Interval.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Soucet_Interval\Soucet_Interval\obj\Debug\net9.0\Soucet_Interval.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Soucet_Interval\Soucet_Interval\obj\Debug\net9.0\Soucet_Interval.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Soucet_Interval\Soucet_Interval\obj\Debug\net9.0\refint\Soucet_Interval.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Soucet_Interval\Soucet_Interval\obj\Debug\net9.0\Soucet_Interval.pdb
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Soucet_Interval\Soucet_Interval\obj\Debug\net9.0\Soucet_Interval.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Soucet_Interval\Soucet_Interval\obj\Debug\net9.0\ref\Soucet_Interval.dll
