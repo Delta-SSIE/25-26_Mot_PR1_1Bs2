@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Nacti_sude\Nacti_sude\bin\Debug\net9.0\Nacti_sude.exe
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Nacti_sude\Nacti_sude\bin\Debug\net9.0\Nacti_sude.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Nacti_sude\Nacti_sude\bin\Debug\net9.0\Nacti_sude.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Nacti_sude\Nacti_sude\bin\Debug\net9.0\Nacti_sude.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Nacti_sude\Nacti_sude\bin\Debug\net9.0\Nacti_sude.pdb
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Nacti_sude\Nacti_sude\obj\Debug\net9.0\Nacti_sude.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Nacti_sude\Nacti_sude\obj\Debug\net9.0\Nacti_sude.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Nacti_sude\Nacti_sude\obj\Debug\net9.0\Nacti_sude.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Nacti_sude\Nacti_sude\obj\Debug\net9.0\Nacti_sude.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Nacti_sude\Nacti_sude\obj\Debug\net9.0\Nacti_sude.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Nacti_sude\Nacti_sude\obj\Debug\net9.0\Nacti_sude.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Nacti_sude\Nacti_sude\obj\Debug\net9.0\refint\Nacti_sude.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Nacti_sude\Nacti_sude\obj\Debug\net9.0\Nacti_sude.pdb
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Nacti_sude\Nacti_sude\obj\Debug\net9.0\Nacti_sude.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Nacti_sude\Nacti_sude\obj\Debug\net9.0\ref\Nacti_sude.dll
