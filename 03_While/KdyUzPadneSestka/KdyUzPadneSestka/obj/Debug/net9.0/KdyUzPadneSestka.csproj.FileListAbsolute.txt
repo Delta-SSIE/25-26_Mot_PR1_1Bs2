@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\KdyUzPadneSestka\KdyUzPadneSestka\bin\Debug\net9.0\KdyUzPadneSestka.exe
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\KdyUzPadneSestka\KdyUzPadneSestka\bin\Debug\net9.0\KdyUzPadneSestka.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\KdyUzPadneSestka\KdyUzPadneSestka\bin\Debug\net9.0\KdyUzPadneSestka.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\KdyUzPadneSestka\KdyUzPadneSestka\bin\Debug\net9.0\KdyUzPadneSestka.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\KdyUzPadneSestka\KdyUzPadneSestka\bin\Debug\net9.0\KdyUzPadneSestka.pdb
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\KdyUzPadneSestka\KdyUzPadneSestka\obj\Debug\net9.0\KdyUzPadneSestka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\KdyUzPadneSestka\KdyUzPadneSestka\obj\Debug\net9.0\KdyUzPadneSestka.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\KdyUzPadneSestka\KdyUzPadneSestka\obj\Debug\net9.0\KdyUzPadneSestka.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\KdyUzPadneSestka\KdyUzPadneSestka\obj\Debug\net9.0\KdyUzPadneSestka.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\KdyUzPadneSestka\KdyUzPadneSestka\obj\Debug\net9.0\KdyUzPadneSestka.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\KdyUzPadneSestka\KdyUzPadneSestka\obj\Debug\net9.0\KdyUzPadneSestka.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\KdyUzPadneSestka\KdyUzPadneSestka\obj\Debug\net9.0\refint\KdyUzPadneSestka.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\KdyUzPadneSestka\KdyUzPadneSestka\obj\Debug\net9.0\KdyUzPadneSestka.pdb
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\KdyUzPadneSestka\KdyUzPadneSestka\obj\Debug\net9.0\KdyUzPadneSestka.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\KdyUzPadneSestka\KdyUzPadneSestka\obj\Debug\net9.0\ref\KdyUzPadneSestka.dll
