@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Maximum\Maximum\bin\Debug\net9.0\Maximum.exe
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Maximum\Maximum\bin\Debug\net9.0\Maximum.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Maximum\Maximum\bin\Debug\net9.0\Maximum.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Maximum\Maximum\bin\Debug\net9.0\Maximum.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Maximum\Maximum\bin\Debug\net9.0\Maximum.pdb
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Maximum\Maximum\obj\Debug\net9.0\Maximum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Maximum\Maximum\obj\Debug\net9.0\Maximum.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Maximum\Maximum\obj\Debug\net9.0\Maximum.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Maximum\Maximum\obj\Debug\net9.0\Maximum.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Maximum\Maximum\obj\Debug\net9.0\Maximum.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Maximum\Maximum\obj\Debug\net9.0\Maximum.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Maximum\Maximum\obj\Debug\net9.0\refint\Maximum.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Maximum\Maximum\obj\Debug\net9.0\Maximum.pdb
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Maximum\Maximum\obj\Debug\net9.0\Maximum.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Maximum\Maximum\obj\Debug\net9.0\ref\Maximum.dll
