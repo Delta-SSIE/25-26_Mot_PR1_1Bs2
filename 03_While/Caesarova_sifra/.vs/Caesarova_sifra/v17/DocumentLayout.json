@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mottja\\source\\PR1-1B-2S(2025)\\03_While\\Caesarova_sifra\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB6F648-CC50-45B7-B3C4-2C6FE8C65165}|Caesarova_sifra\\Caesarova_sifra.csproj|c:\\users\\mottja\\source\\pr1-1b-2s(2025)\\03_while\\caesarova_sifra\\caesarova_sifra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CB6F648-CC50-45B7-B3C4-2C6FE8C65165}|Caesarova_sifra\\Caesarova_sifra.csproj|solutionrelative:caesarova_sifra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mottja\\source\\PR1-1B-2S(2025)\\03_While\\Caesarova_sifra\\Caesarova_sifra\\Program.cs",
+              "RelativeDocumentMoniker": "Caesarova_sifra\\Program.cs",
+              "ToolTip": "C:\\Users\\mottja\\source\\PR1-1B-2S(2025)\\03_While\\Caesarova_sifra\\Caesarova_sifra\\Program.cs",
+              "RelativeToolTip": "Caesarova_sifra\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T10:03:48.719Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
