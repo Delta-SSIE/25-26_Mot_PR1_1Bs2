@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Sifra_zmenZnak\Sifra_zmenZnak\bin\Debug\net9.0\Sifra_zmenZnak.exe
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Sifra_zmenZnak\Sifra_zmenZnak\bin\Debug\net9.0\Sifra_zmenZnak.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Sifra_zmenZnak\Sifra_zmenZnak\bin\Debug\net9.0\Sifra_zmenZnak.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Sifra_zmenZnak\Sifra_zmenZnak\bin\Debug\net9.0\Sifra_zmenZnak.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Sifra_zmenZnak\Sifra_zmenZnak\bin\Debug\net9.0\Sifra_zmenZnak.pdb
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Sifra_zmenZnak\Sifra_zmenZnak\obj\Debug\net9.0\Sifra_zmenZnak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Sifra_zmenZnak\Sifra_zmenZnak\obj\Debug\net9.0\Sifra_zmenZnak.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Sifra_zmenZnak\Sifra_zmenZnak\obj\Debug\net9.0\Sifra_zmenZnak.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Sifra_zmenZnak\Sifra_zmenZnak\obj\Debug\net9.0\Sifra_zmenZnak.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Sifra_zmenZnak\Sifra_zmenZnak\obj\Debug\net9.0\Sifra_zmenZnak.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Sifra_zmenZnak\Sifra_zmenZnak\obj\Debug\net9.0\Sifra_zmenZnak.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Sifra_zmenZnak\Sifra_zmenZnak\obj\Debug\net9.0\refint\Sifra_zmenZnak.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Sifra_zmenZnak\Sifra_zmenZnak\obj\Debug\net9.0\Sifra_zmenZnak.pdb
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Sifra_zmenZnak\Sifra_zmenZnak\obj\Debug\net9.0\Sifra_zmenZnak.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Sifra_zmenZnak\Sifra_zmenZnak\obj\Debug\net9.0\ref\Sifra_zmenZnak.dll
