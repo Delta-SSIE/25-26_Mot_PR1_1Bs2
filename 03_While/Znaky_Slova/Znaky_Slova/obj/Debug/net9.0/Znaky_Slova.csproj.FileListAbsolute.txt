@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Znaky_Slova\Znaky_Slova\bin\Debug\net9.0\Znaky_Slova.exe
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Znaky_Slova\Znaky_Slova\bin\Debug\net9.0\Znaky_Slova.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Znaky_Slova\Znaky_Slova\bin\Debug\net9.0\Znaky_Slova.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Znaky_Slova\Znaky_Slova\bin\Debug\net9.0\Znaky_Slova.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Znaky_Slova\Znaky_Slova\bin\Debug\net9.0\Znaky_Slova.pdb
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Znaky_Slova\Znaky_Slova\obj\Debug\net9.0\Znaky_Slova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Znaky_Slova\Znaky_Slova\obj\Debug\net9.0\Znaky_Slova.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Znaky_Slova\Znaky_Slova\obj\Debug\net9.0\Znaky_Slova.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Znaky_Slova\Znaky_Slova\obj\Debug\net9.0\Znaky_Slova.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Znaky_Slova\Znaky_Slova\obj\Debug\net9.0\Znaky_Slova.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Znaky_Slova\Znaky_Slova\obj\Debug\net9.0\Znaky_Slova.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Znaky_Slova\Znaky_Slova\obj\Debug\net9.0\refint\Znaky_Slova.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Znaky_Slova\Znaky_Slova\obj\Debug\net9.0\Znaky_Slova.pdb
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Znaky_Slova\Znaky_Slova\obj\Debug\net9.0\Znaky_Slova.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Znaky_Slova\Znaky_Slova\obj\Debug\net9.0\ref\Znaky_Slova.dll
