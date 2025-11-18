@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Test_While\Test_While\bin\Debug\net9.0\Test_While.exe
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Test_While\Test_While\bin\Debug\net9.0\Test_While.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Test_While\Test_While\bin\Debug\net9.0\Test_While.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Test_While\Test_While\bin\Debug\net9.0\Test_While.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Test_While\Test_While\bin\Debug\net9.0\Test_While.pdb
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Test_While\Test_While\obj\Debug\net9.0\Test_While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Test_While\Test_While\obj\Debug\net9.0\Test_While.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Test_While\Test_While\obj\Debug\net9.0\Test_While.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Test_While\Test_While\obj\Debug\net9.0\Test_While.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Test_While\Test_While\obj\Debug\net9.0\Test_While.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Test_While\Test_While\obj\Debug\net9.0\Test_While.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Test_While\Test_While\obj\Debug\net9.0\refint\Test_While.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Test_While\Test_While\obj\Debug\net9.0\Test_While.pdb
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Test_While\Test_While\obj\Debug\net9.0\Test_While.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\03_While\Test_While\Test_While\obj\Debug\net9.0\ref\Test_While.dll
