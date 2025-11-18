@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uvod_For_cyklus", "Uvod_For_cyklus\Uvod_For_cyklus.csproj", "{F203C894-9097-4F72-9F23-9A8757BDEDCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F203C894-9097-4F72-9F23-9A8757BDEDCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F203C894-9097-4F72-9F23-9A8757BDEDCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F203C894-9097-4F72-9F23-9A8757BDEDCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F203C894-9097-4F72-9F23-9A8757BDEDCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09694AB3-906F-4387-BC7A-20F30BD76B76}
+	EndGlobalSection
+EndGlobal

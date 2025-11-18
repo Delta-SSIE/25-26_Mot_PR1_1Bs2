@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Uvod_For_cyklus\Uvod_For_cyklus\bin\Debug\net9.0\Uvod_For_cyklus.exe
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Uvod_For_cyklus\Uvod_For_cyklus\bin\Debug\net9.0\Uvod_For_cyklus.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Uvod_For_cyklus\Uvod_For_cyklus\bin\Debug\net9.0\Uvod_For_cyklus.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Uvod_For_cyklus\Uvod_For_cyklus\bin\Debug\net9.0\Uvod_For_cyklus.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Uvod_For_cyklus\Uvod_For_cyklus\bin\Debug\net9.0\Uvod_For_cyklus.pdb
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Uvod_For_cyklus\Uvod_For_cyklus\obj\Debug\net9.0\Uvod_For_cyklus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Uvod_For_cyklus\Uvod_For_cyklus\obj\Debug\net9.0\Uvod_For_cyklus.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Uvod_For_cyklus\Uvod_For_cyklus\obj\Debug\net9.0\Uvod_For_cyklus.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Uvod_For_cyklus\Uvod_For_cyklus\obj\Debug\net9.0\Uvod_For_cyklus.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Uvod_For_cyklus\Uvod_For_cyklus\obj\Debug\net9.0\Uvod_For_cyklus.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Uvod_For_cyklus\Uvod_For_cyklus\obj\Debug\net9.0\Uvod_For_cyklus.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Uvod_For_cyklus\Uvod_For_cyklus\obj\Debug\net9.0\refint\Uvod_For_cyklus.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Uvod_For_cyklus\Uvod_For_cyklus\obj\Debug\net9.0\Uvod_For_cyklus.pdb
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Uvod_For_cyklus\Uvod_For_cyklus\obj\Debug\net9.0\Uvod_For_cyklus.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Uvod_For_cyklus\Uvod_For_cyklus\obj\Debug\net9.0\ref\Uvod_For_cyklus.dll
