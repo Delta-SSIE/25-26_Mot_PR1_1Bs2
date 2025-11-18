@@ -41,7 +41,7 @@
             */
 
             //2. Zmrzlinář
-
+            /*
             int vanilka = 15;
             int cokolada = 20;
 
@@ -80,7 +80,37 @@
 
             Console.WriteLine($"Zrmzlinář prodal {pocetM} míchaných, {pocetC} čokoládových, {pocetV} vanilkových zmrizlin.");
             Console.WriteLine($"Zrmzlináři zbylo {vanilka} vanilkové zmrzliny a {cokolada} čokoládové zmrzliny.");
+            */
 
+            //3. Průměrný hod kostkou
+            /*
+            int stenyKostky = 0;
+            int pocetHodu = 0;
+
+            Console.WriteLine("Zadej mi kolik má mít kostka stěn");
+            while(!int.TryParse(Console.ReadLine(),out stenyKostky))
+            {
+                Console.WriteLine("Zadej číslo");
+            }
+
+            Console.WriteLine("Zadej mi kolikrát mám hodit kostkou");
+            while (!int.TryParse(Console.ReadLine(), out pocetHodu))
+            {
+                Console.WriteLine("Zadej číslo");
+            }
+
+            double soucetHodu = 0;
+            double pocetHodu2 = 0;
+            Random gen = new Random();
+
+            while(pocetHodu2 < pocetHodu)
+            {
+                soucetHodu += gen.Next(1, stenyKostky + 1);
+                pocetHodu2++;
+            }
+
+            Console.WriteLine($"Průměrný hod je {soucetHodu/pocetHodu2} z {pocetHodu} hodů {stenyKostky}stěnnou kostkou!");
+            */
         }
     }
 }
