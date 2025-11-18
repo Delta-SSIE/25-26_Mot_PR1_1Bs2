@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\mottja\\source\\PR1-1B-2S(2025)\\03_While\\Test_While\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5256119-AB6B-4B0B-9727-8E3517F30679}|Test_While\\Test_While.csproj|c:\\users\\mottja\\source\\pr1-1b-2s(2025)\\03_while\\test_while\\test_while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5256119-AB6B-4B0B-9727-8E3517F30679}|Test_While\\Test_While.csproj|solutionrelative:test_while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mottja\\source\\PR1-1B-2S(2025)\\03_While\\Test_While\\Test_While\\Program.cs",
+              "RelativeDocumentMoniker": "Test_While\\Program.cs",
+              "ToolTip": "C:\\Users\\mottja\\source\\PR1-1B-2S(2025)\\03_While\\Test_While\\Test_While\\Program.cs",
+              "RelativeToolTip": "Test_While\\Program.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAowCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T07:17:30.203Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
