@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\For_String\For_String\bin\Debug\net9.0\For_String.exe
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\For_String\For_String\bin\Debug\net9.0\For_String.deps.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\For_String\For_String\bin\Debug\net9.0\For_String.runtimeconfig.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\For_String\For_String\bin\Debug\net9.0\For_String.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\For_String\For_String\bin\Debug\net9.0\For_String.pdb
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\For_String\For_String\obj\Debug\net9.0\For_String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\For_String\For_String\obj\Debug\net9.0\For_String.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\For_String\For_String\obj\Debug\net9.0\For_String.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\For_String\For_String\obj\Debug\net9.0\For_String.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\For_String\For_String\obj\Debug\net9.0\For_String.sourcelink.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\For_String\For_String\obj\Debug\net9.0\For_String.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\For_String\For_String\obj\Debug\net9.0\refint\For_String.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\For_String\For_String\obj\Debug\net9.0\For_String.pdb
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\For_String\For_String\obj\Debug\net9.0\For_String.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\For_String\For_String\obj\Debug\net9.0\ref\For_String.dll

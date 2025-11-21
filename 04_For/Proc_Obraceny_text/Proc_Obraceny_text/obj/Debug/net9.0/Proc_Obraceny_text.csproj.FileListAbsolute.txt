@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Proc_Obraceny_text\Proc_Obraceny_text\bin\Debug\net9.0\Proc_Obraceny_text.exe
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Proc_Obraceny_text\Proc_Obraceny_text\bin\Debug\net9.0\Proc_Obraceny_text.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Proc_Obraceny_text\Proc_Obraceny_text\bin\Debug\net9.0\Proc_Obraceny_text.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Proc_Obraceny_text\Proc_Obraceny_text\bin\Debug\net9.0\Proc_Obraceny_text.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Proc_Obraceny_text\Proc_Obraceny_text\bin\Debug\net9.0\Proc_Obraceny_text.pdb
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Proc_Obraceny_text\Proc_Obraceny_text\obj\Debug\net9.0\Proc_Obraceny_text.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Proc_Obraceny_text\Proc_Obraceny_text\obj\Debug\net9.0\Proc_Obraceny_text.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Proc_Obraceny_text\Proc_Obraceny_text\obj\Debug\net9.0\Proc_Obraceny_text.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Proc_Obraceny_text\Proc_Obraceny_text\obj\Debug\net9.0\Proc_Obraceny_text.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Proc_Obraceny_text\Proc_Obraceny_text\obj\Debug\net9.0\Proc_Obraceny_text.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Proc_Obraceny_text\Proc_Obraceny_text\obj\Debug\net9.0\Proc_Obraceny_text.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Proc_Obraceny_text\Proc_Obraceny_text\obj\Debug\net9.0\refint\Proc_Obraceny_text.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Proc_Obraceny_text\Proc_Obraceny_text\obj\Debug\net9.0\Proc_Obraceny_text.pdb
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Proc_Obraceny_text\Proc_Obraceny_text\obj\Debug\net9.0\Proc_Obraceny_text.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Proc_Obraceny_text\Proc_Obraceny_text\obj\Debug\net9.0\ref\Proc_Obraceny_text.dll
