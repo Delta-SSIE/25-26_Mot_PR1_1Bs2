@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Sifrovaci_stroj_expert\Sifrovaci_stroj_expert\bin\Debug\net9.0\Sifrovaci_stroj_expert.exe
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Sifrovaci_stroj_expert\Sifrovaci_stroj_expert\bin\Debug\net9.0\Sifrovaci_stroj_expert.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Sifrovaci_stroj_expert\Sifrovaci_stroj_expert\bin\Debug\net9.0\Sifrovaci_stroj_expert.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Sifrovaci_stroj_expert\Sifrovaci_stroj_expert\bin\Debug\net9.0\Sifrovaci_stroj_expert.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Sifrovaci_stroj_expert\Sifrovaci_stroj_expert\bin\Debug\net9.0\Sifrovaci_stroj_expert.pdb
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Sifrovaci_stroj_expert\Sifrovaci_stroj_expert\obj\Debug\net9.0\Sifrovaci_stroj_expert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Sifrovaci_stroj_expert\Sifrovaci_stroj_expert\obj\Debug\net9.0\Sifrovaci_stroj_expert.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Sifrovaci_stroj_expert\Sifrovaci_stroj_expert\obj\Debug\net9.0\Sifrovaci_stroj_expert.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Sifrovaci_stroj_expert\Sifrovaci_stroj_expert\obj\Debug\net9.0\Sifrovaci_stroj_expert.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Sifrovaci_stroj_expert\Sifrovaci_stroj_expert\obj\Debug\net9.0\Sifrovaci_stroj_expert.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Sifrovaci_stroj_expert\Sifrovaci_stroj_expert\obj\Debug\net9.0\Sifrovaci_stroj_expert.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Sifrovaci_stroj_expert\Sifrovaci_stroj_expert\obj\Debug\net9.0\refint\Sifrovaci_stroj_expert.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Sifrovaci_stroj_expert\Sifrovaci_stroj_expert\obj\Debug\net9.0\Sifrovaci_stroj_expert.pdb
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Sifrovaci_stroj_expert\Sifrovaci_stroj_expert\obj\Debug\net9.0\Sifrovaci_stroj_expert.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Sifrovaci_stroj_expert\Sifrovaci_stroj_expert\obj\Debug\net9.0\ref\Sifrovaci_stroj_expert.dll
