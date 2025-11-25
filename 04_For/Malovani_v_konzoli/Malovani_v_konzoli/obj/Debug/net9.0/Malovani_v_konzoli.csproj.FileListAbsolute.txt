@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Malovani_v_konzoli\Malovani_v_konzoli\bin\Debug\net9.0\Malovani_v_konzoli.exe
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Malovani_v_konzoli\Malovani_v_konzoli\bin\Debug\net9.0\Malovani_v_konzoli.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Malovani_v_konzoli\Malovani_v_konzoli\bin\Debug\net9.0\Malovani_v_konzoli.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Malovani_v_konzoli\Malovani_v_konzoli\bin\Debug\net9.0\Malovani_v_konzoli.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Malovani_v_konzoli\Malovani_v_konzoli\bin\Debug\net9.0\Malovani_v_konzoli.pdb
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Malovani_v_konzoli\Malovani_v_konzoli\obj\Debug\net9.0\Malovani_v_konzoli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Malovani_v_konzoli\Malovani_v_konzoli\obj\Debug\net9.0\Malovani_v_konzoli.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Malovani_v_konzoli\Malovani_v_konzoli\obj\Debug\net9.0\Malovani_v_konzoli.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Malovani_v_konzoli\Malovani_v_konzoli\obj\Debug\net9.0\Malovani_v_konzoli.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Malovani_v_konzoli\Malovani_v_konzoli\obj\Debug\net9.0\Malovani_v_konzoli.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Malovani_v_konzoli\Malovani_v_konzoli\obj\Debug\net9.0\Malovani_v_konzoli.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Malovani_v_konzoli\Malovani_v_konzoli\obj\Debug\net9.0\refint\Malovani_v_konzoli.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Malovani_v_konzoli\Malovani_v_konzoli\obj\Debug\net9.0\Malovani_v_konzoli.pdb
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Malovani_v_konzoli\Malovani_v_konzoli\obj\Debug\net9.0\Malovani_v_konzoli.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Malovani_v_konzoli\Malovani_v_konzoli\obj\Debug\net9.0\ref\Malovani_v_konzoli.dll
