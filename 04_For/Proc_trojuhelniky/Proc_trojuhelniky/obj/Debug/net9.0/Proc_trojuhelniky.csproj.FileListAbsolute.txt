@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Proc_trojuhelniky\Proc_trojuhelniky\obj\Debug\net9.0\Proc_trojuhelniky.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Proc_trojuhelniky\Proc_trojuhelniky\obj\Debug\net9.0\Proc_trojuhelniky.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Proc_trojuhelniky\Proc_trojuhelniky\obj\Debug\net9.0\Proc_trojuhelniky.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Proc_trojuhelniky\Proc_trojuhelniky\obj\Debug\net9.0\Proc_trojuhelniky.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Proc_trojuhelniky\Proc_trojuhelniky\obj\Debug\net9.0\Proc_trojuhelniky.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Proc_trojuhelniky\Proc_trojuhelniky\bin\Debug\net9.0\Proc_trojuhelniky.exe
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Proc_trojuhelniky\Proc_trojuhelniky\bin\Debug\net9.0\Proc_trojuhelniky.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Proc_trojuhelniky\Proc_trojuhelniky\bin\Debug\net9.0\Proc_trojuhelniky.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Proc_trojuhelniky\Proc_trojuhelniky\bin\Debug\net9.0\Proc_trojuhelniky.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Proc_trojuhelniky\Proc_trojuhelniky\bin\Debug\net9.0\Proc_trojuhelniky.pdb
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Proc_trojuhelniky\Proc_trojuhelniky\obj\Debug\net9.0\Proc_trojuhelniky.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Proc_trojuhelniky\Proc_trojuhelniky\obj\Debug\net9.0\refint\Proc_trojuhelniky.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Proc_trojuhelniky\Proc_trojuhelniky\obj\Debug\net9.0\Proc_trojuhelniky.pdb
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Proc_trojuhelniky\Proc_trojuhelniky\obj\Debug\net9.0\Proc_trojuhelniky.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Proc_trojuhelniky\Proc_trojuhelniky\obj\Debug\net9.0\ref\Proc_trojuhelniky.dll
