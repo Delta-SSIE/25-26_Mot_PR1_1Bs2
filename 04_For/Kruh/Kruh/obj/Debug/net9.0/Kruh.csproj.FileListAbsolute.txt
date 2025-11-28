@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Kruh\Kruh\bin\Debug\net9.0\Kruh.exe
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Kruh\Kruh\bin\Debug\net9.0\Kruh.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Kruh\Kruh\bin\Debug\net9.0\Kruh.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Kruh\Kruh\bin\Debug\net9.0\Kruh.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Kruh\Kruh\bin\Debug\net9.0\Kruh.pdb
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Kruh\Kruh\obj\Debug\net9.0\Kruh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Kruh\Kruh\obj\Debug\net9.0\Kruh.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Kruh\Kruh\obj\Debug\net9.0\Kruh.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Kruh\Kruh\obj\Debug\net9.0\Kruh.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Kruh\Kruh\obj\Debug\net9.0\Kruh.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Kruh\Kruh\obj\Debug\net9.0\Kruh.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Kruh\Kruh\obj\Debug\net9.0\refint\Kruh.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Kruh\Kruh\obj\Debug\net9.0\Kruh.pdb
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Kruh\Kruh\obj\Debug\net9.0\Kruh.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\04_For\Kruh\Kruh\obj\Debug\net9.0\ref\Kruh.dll
