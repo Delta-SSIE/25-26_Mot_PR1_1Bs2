@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2025)\05_Pole\Nejdelsi_cesta\Nejdelsi_cesta\bin\Debug\net9.0\Nejdelsi_cesta.exe
+C:\Users\mottja\source\PR1-1B-2S(2025)\05_Pole\Nejdelsi_cesta\Nejdelsi_cesta\bin\Debug\net9.0\Nejdelsi_cesta.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\05_Pole\Nejdelsi_cesta\Nejdelsi_cesta\bin\Debug\net9.0\Nejdelsi_cesta.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\05_Pole\Nejdelsi_cesta\Nejdelsi_cesta\bin\Debug\net9.0\Nejdelsi_cesta.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\05_Pole\Nejdelsi_cesta\Nejdelsi_cesta\bin\Debug\net9.0\Nejdelsi_cesta.pdb
+C:\Users\mottja\source\PR1-1B-2S(2025)\05_Pole\Nejdelsi_cesta\Nejdelsi_cesta\obj\Debug\net9.0\Nejdelsi_cesta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2025)\05_Pole\Nejdelsi_cesta\Nejdelsi_cesta\obj\Debug\net9.0\Nejdelsi_cesta.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\05_Pole\Nejdelsi_cesta\Nejdelsi_cesta\obj\Debug\net9.0\Nejdelsi_cesta.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2025)\05_Pole\Nejdelsi_cesta\Nejdelsi_cesta\obj\Debug\net9.0\Nejdelsi_cesta.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\05_Pole\Nejdelsi_cesta\Nejdelsi_cesta\obj\Debug\net9.0\Nejdelsi_cesta.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\05_Pole\Nejdelsi_cesta\Nejdelsi_cesta\obj\Debug\net9.0\Nejdelsi_cesta.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\05_Pole\Nejdelsi_cesta\Nejdelsi_cesta\obj\Debug\net9.0\refint\Nejdelsi_cesta.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\05_Pole\Nejdelsi_cesta\Nejdelsi_cesta\obj\Debug\net9.0\Nejdelsi_cesta.pdb
+C:\Users\mottja\source\PR1-1B-2S(2025)\05_Pole\Nejdelsi_cesta\Nejdelsi_cesta\obj\Debug\net9.0\Nejdelsi_cesta.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\05_Pole\Nejdelsi_cesta\Nejdelsi_cesta\obj\Debug\net9.0\ref\Nejdelsi_cesta.dll
