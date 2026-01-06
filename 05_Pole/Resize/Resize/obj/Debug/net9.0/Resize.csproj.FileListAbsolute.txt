@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2025)\05_Pole\Resize\Resize\bin\Debug\net9.0\Resize.exe
+C:\Users\mottja\source\PR1-1B-2S(2025)\05_Pole\Resize\Resize\bin\Debug\net9.0\Resize.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\05_Pole\Resize\Resize\bin\Debug\net9.0\Resize.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\05_Pole\Resize\Resize\bin\Debug\net9.0\Resize.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\05_Pole\Resize\Resize\bin\Debug\net9.0\Resize.pdb
+C:\Users\mottja\source\PR1-1B-2S(2025)\05_Pole\Resize\Resize\obj\Debug\net9.0\Resize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2025)\05_Pole\Resize\Resize\obj\Debug\net9.0\Resize.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\05_Pole\Resize\Resize\obj\Debug\net9.0\Resize.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2025)\05_Pole\Resize\Resize\obj\Debug\net9.0\Resize.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\05_Pole\Resize\Resize\obj\Debug\net9.0\Resize.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\05_Pole\Resize\Resize\obj\Debug\net9.0\Resize.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\05_Pole\Resize\Resize\obj\Debug\net9.0\refint\Resize.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\05_Pole\Resize\Resize\obj\Debug\net9.0\Resize.pdb
+C:\Users\mottja\source\PR1-1B-2S(2025)\05_Pole\Resize\Resize\obj\Debug\net9.0\Resize.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\05_Pole\Resize\Resize\obj\Debug\net9.0\ref\Resize.dll
