@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_Metody\Scitani_Poli\Scitani_Poli\bin\Debug\net9.0\Scitani_Poli.exe
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_Metody\Scitani_Poli\Scitani_Poli\bin\Debug\net9.0\Scitani_Poli.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_Metody\Scitani_Poli\Scitani_Poli\bin\Debug\net9.0\Scitani_Poli.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_Metody\Scitani_Poli\Scitani_Poli\bin\Debug\net9.0\Scitani_Poli.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_Metody\Scitani_Poli\Scitani_Poli\bin\Debug\net9.0\Scitani_Poli.pdb
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_Metody\Scitani_Poli\Scitani_Poli\obj\Debug\net9.0\Scitani_Poli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_Metody\Scitani_Poli\Scitani_Poli\obj\Debug\net9.0\Scitani_Poli.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_Metody\Scitani_Poli\Scitani_Poli\obj\Debug\net9.0\Scitani_Poli.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_Metody\Scitani_Poli\Scitani_Poli\obj\Debug\net9.0\Scitani_Poli.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_Metody\Scitani_Poli\Scitani_Poli\obj\Debug\net9.0\Scitani_Poli.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_Metody\Scitani_Poli\Scitani_Poli\obj\Debug\net9.0\Scitani_Poli.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_Metody\Scitani_Poli\Scitani_Poli\obj\Debug\net9.0\refint\Scitani_Poli.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_Metody\Scitani_Poli\Scitani_Poli\obj\Debug\net9.0\Scitani_Poli.pdb
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_Metody\Scitani_Poli\Scitani_Poli\obj\Debug\net9.0\Scitani_Poli.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_Metody\Scitani_Poli\Scitani_Poli\obj\Debug\net9.0\ref\Scitani_Poli.dll
