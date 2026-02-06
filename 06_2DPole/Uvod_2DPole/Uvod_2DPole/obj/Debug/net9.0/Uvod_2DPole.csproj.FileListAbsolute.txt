@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_2DPole\Uvod_2DPole\Uvod_2DPole\bin\Debug\net9.0\Uvod_2DPole.exe
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_2DPole\Uvod_2DPole\Uvod_2DPole\bin\Debug\net9.0\Uvod_2DPole.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_2DPole\Uvod_2DPole\Uvod_2DPole\bin\Debug\net9.0\Uvod_2DPole.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_2DPole\Uvod_2DPole\Uvod_2DPole\bin\Debug\net9.0\Uvod_2DPole.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_2DPole\Uvod_2DPole\Uvod_2DPole\bin\Debug\net9.0\Uvod_2DPole.pdb
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_2DPole\Uvod_2DPole\Uvod_2DPole\obj\Debug\net9.0\Uvod_2DPole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_2DPole\Uvod_2DPole\Uvod_2DPole\obj\Debug\net9.0\Uvod_2DPole.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_2DPole\Uvod_2DPole\Uvod_2DPole\obj\Debug\net9.0\Uvod_2DPole.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_2DPole\Uvod_2DPole\Uvod_2DPole\obj\Debug\net9.0\Uvod_2DPole.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_2DPole\Uvod_2DPole\Uvod_2DPole\obj\Debug\net9.0\Uvod_2DPole.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_2DPole\Uvod_2DPole\Uvod_2DPole\obj\Debug\net9.0\Uvod_2DPole.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_2DPole\Uvod_2DPole\Uvod_2DPole\obj\Debug\net9.0\refint\Uvod_2DPole.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_2DPole\Uvod_2DPole\Uvod_2DPole\obj\Debug\net9.0\Uvod_2DPole.pdb
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_2DPole\Uvod_2DPole\Uvod_2DPole\obj\Debug\net9.0\Uvod_2DPole.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_2DPole\Uvod_2DPole\Uvod_2DPole\obj\Debug\net9.0\ref\Uvod_2DPole.dll
