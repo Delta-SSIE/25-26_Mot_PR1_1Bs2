@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_2DPole\Proc_Diagonaly\Proc_Diagonaly\bin\Debug\net9.0\Proc_Diagonaly.exe
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_2DPole\Proc_Diagonaly\Proc_Diagonaly\bin\Debug\net9.0\Proc_Diagonaly.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_2DPole\Proc_Diagonaly\Proc_Diagonaly\bin\Debug\net9.0\Proc_Diagonaly.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_2DPole\Proc_Diagonaly\Proc_Diagonaly\bin\Debug\net9.0\Proc_Diagonaly.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_2DPole\Proc_Diagonaly\Proc_Diagonaly\bin\Debug\net9.0\Proc_Diagonaly.pdb
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_2DPole\Proc_Diagonaly\Proc_Diagonaly\obj\Debug\net9.0\Proc_Diagonaly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_2DPole\Proc_Diagonaly\Proc_Diagonaly\obj\Debug\net9.0\Proc_Diagonaly.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_2DPole\Proc_Diagonaly\Proc_Diagonaly\obj\Debug\net9.0\Proc_Diagonaly.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_2DPole\Proc_Diagonaly\Proc_Diagonaly\obj\Debug\net9.0\Proc_Diagonaly.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_2DPole\Proc_Diagonaly\Proc_Diagonaly\obj\Debug\net9.0\Proc_Diagonaly.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_2DPole\Proc_Diagonaly\Proc_Diagonaly\obj\Debug\net9.0\Proc_Diagonaly.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_2DPole\Proc_Diagonaly\Proc_Diagonaly\obj\Debug\net9.0\refint\Proc_Diagonaly.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_2DPole\Proc_Diagonaly\Proc_Diagonaly\obj\Debug\net9.0\Proc_Diagonaly.pdb
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_2DPole\Proc_Diagonaly\Proc_Diagonaly\obj\Debug\net9.0\Proc_Diagonaly.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_2DPole\Proc_Diagonaly\Proc_Diagonaly\obj\Debug\net9.0\ref\Proc_Diagonaly.dll
