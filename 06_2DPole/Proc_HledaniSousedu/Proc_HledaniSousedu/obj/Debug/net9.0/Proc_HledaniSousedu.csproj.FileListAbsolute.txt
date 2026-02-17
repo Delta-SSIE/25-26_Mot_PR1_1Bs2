@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_2DPole\Proc_HledaniSousedu\Proc_HledaniSousedu\bin\Debug\net9.0\Proc_HledaniSousedu.exe
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_2DPole\Proc_HledaniSousedu\Proc_HledaniSousedu\bin\Debug\net9.0\Proc_HledaniSousedu.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_2DPole\Proc_HledaniSousedu\Proc_HledaniSousedu\bin\Debug\net9.0\Proc_HledaniSousedu.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_2DPole\Proc_HledaniSousedu\Proc_HledaniSousedu\bin\Debug\net9.0\Proc_HledaniSousedu.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_2DPole\Proc_HledaniSousedu\Proc_HledaniSousedu\bin\Debug\net9.0\Proc_HledaniSousedu.pdb
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_2DPole\Proc_HledaniSousedu\Proc_HledaniSousedu\obj\Debug\net9.0\Proc_HledaniSousedu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_2DPole\Proc_HledaniSousedu\Proc_HledaniSousedu\obj\Debug\net9.0\Proc_HledaniSousedu.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_2DPole\Proc_HledaniSousedu\Proc_HledaniSousedu\obj\Debug\net9.0\Proc_HledaniSousedu.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_2DPole\Proc_HledaniSousedu\Proc_HledaniSousedu\obj\Debug\net9.0\Proc_HledaniSousedu.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_2DPole\Proc_HledaniSousedu\Proc_HledaniSousedu\obj\Debug\net9.0\Proc_HledaniSousedu.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_2DPole\Proc_HledaniSousedu\Proc_HledaniSousedu\obj\Debug\net9.0\Proc_HledaniSousedu.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_2DPole\Proc_HledaniSousedu\Proc_HledaniSousedu\obj\Debug\net9.0\refint\Proc_HledaniSousedu.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_2DPole\Proc_HledaniSousedu\Proc_HledaniSousedu\obj\Debug\net9.0\Proc_HledaniSousedu.pdb
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_2DPole\Proc_HledaniSousedu\Proc_HledaniSousedu\obj\Debug\net9.0\Proc_HledaniSousedu.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_2DPole\Proc_HledaniSousedu\Proc_HledaniSousedu\obj\Debug\net9.0\ref\Proc_HledaniSousedu.dll
