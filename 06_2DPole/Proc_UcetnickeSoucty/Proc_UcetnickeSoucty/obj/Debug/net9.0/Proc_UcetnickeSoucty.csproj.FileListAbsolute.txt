@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_2DPole\Proc_UcetnickeSoucty\Proc_UcetnickeSoucty\bin\Debug\net9.0\Proc_UcetnickeSoucty.exe
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_2DPole\Proc_UcetnickeSoucty\Proc_UcetnickeSoucty\bin\Debug\net9.0\Proc_UcetnickeSoucty.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_2DPole\Proc_UcetnickeSoucty\Proc_UcetnickeSoucty\bin\Debug\net9.0\Proc_UcetnickeSoucty.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_2DPole\Proc_UcetnickeSoucty\Proc_UcetnickeSoucty\bin\Debug\net9.0\Proc_UcetnickeSoucty.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_2DPole\Proc_UcetnickeSoucty\Proc_UcetnickeSoucty\bin\Debug\net9.0\Proc_UcetnickeSoucty.pdb
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_2DPole\Proc_UcetnickeSoucty\Proc_UcetnickeSoucty\obj\Debug\net9.0\Proc_UcetnickeSoucty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_2DPole\Proc_UcetnickeSoucty\Proc_UcetnickeSoucty\obj\Debug\net9.0\Proc_UcetnickeSoucty.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_2DPole\Proc_UcetnickeSoucty\Proc_UcetnickeSoucty\obj\Debug\net9.0\Proc_UcetnickeSoucty.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_2DPole\Proc_UcetnickeSoucty\Proc_UcetnickeSoucty\obj\Debug\net9.0\Proc_UcetnickeSoucty.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_2DPole\Proc_UcetnickeSoucty\Proc_UcetnickeSoucty\obj\Debug\net9.0\Proc_UcetnickeSoucty.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_2DPole\Proc_UcetnickeSoucty\Proc_UcetnickeSoucty\obj\Debug\net9.0\Proc_UcetnickeSoucty.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_2DPole\Proc_UcetnickeSoucty\Proc_UcetnickeSoucty\obj\Debug\net9.0\refint\Proc_UcetnickeSoucty.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_2DPole\Proc_UcetnickeSoucty\Proc_UcetnickeSoucty\obj\Debug\net9.0\Proc_UcetnickeSoucty.pdb
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_2DPole\Proc_UcetnickeSoucty\Proc_UcetnickeSoucty\obj\Debug\net9.0\Proc_UcetnickeSoucty.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\06_2DPole\Proc_UcetnickeSoucty\Proc_UcetnickeSoucty\obj\Debug\net9.0\ref\Proc_UcetnickeSoucty.dll
