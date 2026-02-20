@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lode")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9974edb8dcfcb520ea6f5a3adc6316f1a2a2d94e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4816b4e5a6ec1a665153e5783b2cc8c9d2241871")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lode")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lode")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

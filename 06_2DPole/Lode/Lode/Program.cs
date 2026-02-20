@@ -19,7 +19,65 @@
 
             //Výpis pole
             VypisPole(hrac);
+
+            hrac = VlozLod(hrac);
+            hrac = VlozLod(hrac);
+            VypisPole(hrac);
         }
+
+        //Metoda pro vložení lodě
+        //Todo upravit potom na větší lodě
+        static int[,] VlozLod(int[,] pole)
+        {
+            int x = 0;
+            int y = 0;
+
+            do
+            {
+                Console.WriteLine("Na jakou souřadnici X chceš vložit loď");
+                x = OverTyp();
+                Console.WriteLine("Na jakou souřadnici Y chceš vložit loď");
+                y = OverTyp();
+                if(JeMimo(x, y, pole))
+                {
+                    continue;
+                }
+            } while (!JeVoda(x, y, pole)); //cyklus se zastaví, když na poli je voda
+
+            pole[y, x] = 1; //1 - Loď
+            return pole;
+        }
+        //Metoda ověřující, že dané souřadnice mohou v poli existovat (nejsou mimo)
+        static bool JeMimo(int x, int y, int[,] pole)
+        {
+            if(y < 0 || y > pole.GetLength(0) || x < 0 || x > pole.GetLength(1))
+            {
+                return true;
+            }
+            return false;
+        }
+
+        //Metoda ověřující, že na daných souřadnicích předaných do paramteru se v poli nachází voda (0)
+        static bool JeVoda(int x, int y, int[,] pole)
+        {
+            if (pole[y,x] == 0)
+            {
+                return true;
+            }
+            return false;
+        }
+
+        //Metoda ověřující, že vstup od uživatele je číslo, které vrátí!
+        static int OverTyp()
+        {
+            int cislo = 0;
+            while(!int.TryParse(Console.ReadLine(),out cislo))
+            {
+                Console.WriteLine("Zadej mi opravdu číslo!");
+            }
+            return cislo;
+        }
+        
         //Metoda na výpis hracího pole
         static void VypisPole(int[,] pole)
         {
