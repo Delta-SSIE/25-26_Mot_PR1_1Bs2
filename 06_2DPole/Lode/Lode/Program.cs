@@ -34,14 +34,13 @@
 
             do
             {
-                Console.WriteLine("Na jakou souřadnici X chceš vložit loď");
-                x = OverTyp();
-                Console.WriteLine("Na jakou souřadnici Y chceš vložit loď");
-                y = OverTyp();
-                if(JeMimo(x, y, pole))
+                do
                 {
-                    continue;
-                }
+                    Console.WriteLine("Na jakou souřadnici X chceš vložit loď");
+                    x = OverTyp();
+                    Console.WriteLine("Na jakou souřadnici Y chceš vložit loď");
+                    y = OverTyp();
+                } while (JeMimo(x, y, pole)); //cyklus se zastaví, když není mimo
             } while (!JeVoda(x, y, pole)); //cyklus se zastaví, když na poli je voda
 
             pole[y, x] = 1; //1 - Loď
