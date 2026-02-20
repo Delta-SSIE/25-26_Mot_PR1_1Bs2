@@ -17,13 +17,39 @@
             hrac_strely = NaplnPole(hrac_strely);
             souper = NaplnPole(souper);
 
-            //Výpis pole
+            //defaultní počet lodí
+            int pocet_lodi = 3;
+            
+            for (int i = 0; i < pocet_lodi; i++)
+            {
+                VypisPole(hrac);
+                hrac = VlozLod(hrac);
+                souper = GenerujLod(souper);
+                Console.Clear(); //vyčistí konozoli
+            }
             VypisPole(hrac);
+            VypisPole(souper);
 
-            hrac = VlozLod(hrac);
-            hrac = VlozLod(hrac);
-            VypisPole(hrac);
+
+
         }
+        //Metoda pro generování lodě PC
+        static int[,] GenerujLod(int[,] pole)
+        {
+            Random gen = new Random();
+            int x = 0;
+            int y = 0;
+
+            do
+            {
+                x = gen.Next(0, pole.GetLength(1));
+                y = gen.Next(0, pole.GetLength(0));
+            } while (!JeVoda(x, y, pole)); //cyklus se zastaví, když na poli je voda
+
+            pole[y, x] = 1; //1 - Loď
+            return pole;
+        }
+
 
         //Metoda pro vložení lodě
         //Todo upravit potom na větší lodě
