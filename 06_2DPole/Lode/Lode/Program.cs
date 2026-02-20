@@ -27,12 +27,35 @@
                 souper = GenerujLod(souper);
                 Console.Clear(); //vyčistí konozoli
             }
-            VypisPole(hrac);
-            VypisPole(souper);
+            
+            //herní smyčka - dokud má každý hráč více než 0 lodí
+            while(PocetLodi(hrac) > 0 && PocetLodi(souper) > 0)
+            {
+                Console.Clear();
+                Console.WriteLine("Vaše pole:");
+                VypisPole(hrac);
+                Console.WriteLine("Vaše pole střel:");
+                VypisPole(hrac_strely);
+
+            }
 
 
 
         }
+        //Metoda vrací počet lodí na mapě
+        static int PocetLodi(int[,] pole)
+        {
+            int pocet = 0;
+            foreach (int policko in pole)
+            {
+                if(policko == 1)
+                {
+                    pocet++;
+                }
+            }
+            return pocet;
+        }
+
         //Metoda pro generování lodě PC
         static int[,] GenerujLod(int[,] pole)
         {
