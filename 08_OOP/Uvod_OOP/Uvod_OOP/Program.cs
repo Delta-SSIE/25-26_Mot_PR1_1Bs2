@@ -40,6 +40,19 @@
             Console.WriteLine($"Moje auto má {moje_auto.GetKola()} kola.");
             moje_auto.SetKola(moje_auto.GetKola() - 10);
             Console.WriteLine($"Moje auto má {moje_auto.GetKola()} kola.");
+
+
+            //Incializace objektu s hodnotami
+            Auto sefovo_auto = new Auto
+            {
+                barva = "modrá",
+                spz = "22222",
+                hmotnost = 200,
+                znacka = "Volvo"
+            };
+            sefovo_auto.PredstavSe();
+            sefovo_auto.SetKola(1);
+            Console.WriteLine(sefovo_auto.GetKola());
         }
     }
 }
