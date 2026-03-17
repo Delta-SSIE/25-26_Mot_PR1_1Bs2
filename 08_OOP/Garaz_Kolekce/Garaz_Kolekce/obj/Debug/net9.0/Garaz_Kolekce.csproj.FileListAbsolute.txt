@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2025)\08_OOP\Garaz_Kolekce\Garaz_Kolekce\bin\Debug\net9.0\Garaz_Kolekce.exe
+C:\Users\mottja\source\PR1-1B-2S(2025)\08_OOP\Garaz_Kolekce\Garaz_Kolekce\bin\Debug\net9.0\Garaz_Kolekce.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\08_OOP\Garaz_Kolekce\Garaz_Kolekce\bin\Debug\net9.0\Garaz_Kolekce.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\08_OOP\Garaz_Kolekce\Garaz_Kolekce\bin\Debug\net9.0\Garaz_Kolekce.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\08_OOP\Garaz_Kolekce\Garaz_Kolekce\bin\Debug\net9.0\Garaz_Kolekce.pdb
+C:\Users\mottja\source\PR1-1B-2S(2025)\08_OOP\Garaz_Kolekce\Garaz_Kolekce\obj\Debug\net9.0\Garaz_Kolekce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2025)\08_OOP\Garaz_Kolekce\Garaz_Kolekce\obj\Debug\net9.0\Garaz_Kolekce.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\08_OOP\Garaz_Kolekce\Garaz_Kolekce\obj\Debug\net9.0\Garaz_Kolekce.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2025)\08_OOP\Garaz_Kolekce\Garaz_Kolekce\obj\Debug\net9.0\Garaz_Kolekce.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\08_OOP\Garaz_Kolekce\Garaz_Kolekce\obj\Debug\net9.0\Garaz_Kolekce.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\08_OOP\Garaz_Kolekce\Garaz_Kolekce\obj\Debug\net9.0\Garaz_Kolekce.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\08_OOP\Garaz_Kolekce\Garaz_Kolekce\obj\Debug\net9.0\refint\Garaz_Kolekce.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\08_OOP\Garaz_Kolekce\Garaz_Kolekce\obj\Debug\net9.0\Garaz_Kolekce.pdb
+C:\Users\mottja\source\PR1-1B-2S(2025)\08_OOP\Garaz_Kolekce\Garaz_Kolekce\obj\Debug\net9.0\Garaz_Kolekce.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\08_OOP\Garaz_Kolekce\Garaz_Kolekce\obj\Debug\net9.0\ref\Garaz_Kolekce.dll
