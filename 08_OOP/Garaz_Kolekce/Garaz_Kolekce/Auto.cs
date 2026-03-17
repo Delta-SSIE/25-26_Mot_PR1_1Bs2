@@ -32,7 +32,7 @@ namespace Garaz_Kolekce
         }
 
         //Metoda, co vrací jako string všechny pasažéry
-        public string VratPasazeri()
+        public string VratPasazery()
         {
             string pasazeri = "";
             for (int i = 0; i < this.pasazeri.Length; i++)

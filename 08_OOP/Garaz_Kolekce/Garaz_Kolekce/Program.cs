@@ -1,4 +1,6 @@
-﻿namespace Garaz_Kolekce
+﻿using System.Runtime.CompilerServices;
+
+namespace Garaz_Kolekce
 {
     internal class Program
     {
@@ -34,8 +36,51 @@
 
             //Vypsání hodnot z pole, které je vlastnost objektu
             Console.WriteLine(moje_auto.pasazeri[1]); //vypíše u objektu moje_auto, co je ve vlastnosti pasazeri (pole) na 1. indexu
-            Console.WriteLine(moje_auto.VratPasazeri());
-            Console.WriteLine(sousedovo_auto.VratPasazeri());
+            Console.WriteLine(moje_auto.VratPasazery());
+            Console.WriteLine(sousedovo_auto.VratPasazery());
+
+            //Kolekce objektů
+            Auto[] garaz = { moje_auto, sousedovo_auto };
+            Console.WriteLine(garaz[0].pasazeri[1]);
+
+            //Chci vypsat všechny pasazeri ve všech autech v garáži (bez použití metody VratPasazeri)
+            
+            for (int i = 0; i < garaz.Length; i++) //vnější cyklus - jde po objektech v poli garáž
+            {
+                Console.WriteLine($"Auto na indexu {i}. v garáži:");
+                for (int j = 0; j < garaz[i].pasazeri.Length; j++) 
+    //vnitřní cyklus - u vybraného objektu vnějším cyklem jde po jednotlivých prvích v vlastnosti pasazeri
+                {
+                    Console.Write(garaz[i].pasazeri[j] + " ");
+                }
+                Console.WriteLine();
+                Console.WriteLine("--------------------");
+            }
+
+            //Přidání auta do garáže
+            Array.Resize(ref garaz, garaz.Length + 1);
+            garaz[garaz.Length - 1] = new Auto(); //nový objekt v poli garaz
+            
+            garaz[garaz.Length - 1].SPZ = "CCC";
+            garaz[garaz.Length - 1].pocetKol = 2;
+            garaz[garaz.Length - 1].pasazeri = ["Dominik"];
+
+            Array.Resize(ref garaz, garaz.Length + 1);
+            garaz[garaz.Length - 1] = new Auto //nový objekt v poli garáž
+            {
+                SPZ = "TTT",
+                pocetKol = 4,
+                pasazeri = ["Adam", "Šimon"]
+            };
+
+            //Výpis všech aut z garáže (s využitím metody VratPasazery)
+            for (int i = 0; i < garaz.Length; i++)
+            {
+                Console.WriteLine($"Auto na indexu {i}. v garáži:");
+                Console.WriteLine(garaz[i].VratPasazery());
+                Console.WriteLine("-------------");
+            }
+
 
         }
     }

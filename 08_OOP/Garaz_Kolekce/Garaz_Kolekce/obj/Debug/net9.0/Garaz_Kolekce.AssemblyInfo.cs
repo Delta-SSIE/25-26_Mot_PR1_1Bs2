@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Garaz_Kolekce")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4fe97691acbb3c4edda33a14659b5b3b78fdd92")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52b3a51e86612da57066903496249b84c0473003")]
 [assembly: System.Reflection.AssemblyProductAttribute("Garaz_Kolekce")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Garaz_Kolekce")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
