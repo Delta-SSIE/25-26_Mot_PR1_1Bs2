@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Skola_Konstruktor/1.0.0": {
+        "runtime": {
+          "Skola_Konstruktor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Skola_Konstruktor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

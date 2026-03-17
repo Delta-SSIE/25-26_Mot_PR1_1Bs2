@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2025)\08_OOP\Skola_Konstruktor\Skola_Konstruktor\bin\Debug\net9.0\Skola_Konstruktor.exe
+C:\Users\mottja\source\PR1-1B-2S(2025)\08_OOP\Skola_Konstruktor\Skola_Konstruktor\bin\Debug\net9.0\Skola_Konstruktor.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\08_OOP\Skola_Konstruktor\Skola_Konstruktor\bin\Debug\net9.0\Skola_Konstruktor.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\08_OOP\Skola_Konstruktor\Skola_Konstruktor\bin\Debug\net9.0\Skola_Konstruktor.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\08_OOP\Skola_Konstruktor\Skola_Konstruktor\bin\Debug\net9.0\Skola_Konstruktor.pdb
+C:\Users\mottja\source\PR1-1B-2S(2025)\08_OOP\Skola_Konstruktor\Skola_Konstruktor\obj\Debug\net9.0\Skola_Konstruktor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2025)\08_OOP\Skola_Konstruktor\Skola_Konstruktor\obj\Debug\net9.0\Skola_Konstruktor.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\08_OOP\Skola_Konstruktor\Skola_Konstruktor\obj\Debug\net9.0\Skola_Konstruktor.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2025)\08_OOP\Skola_Konstruktor\Skola_Konstruktor\obj\Debug\net9.0\Skola_Konstruktor.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\08_OOP\Skola_Konstruktor\Skola_Konstruktor\obj\Debug\net9.0\Skola_Konstruktor.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\08_OOP\Skola_Konstruktor\Skola_Konstruktor\obj\Debug\net9.0\Skola_Konstruktor.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\08_OOP\Skola_Konstruktor\Skola_Konstruktor\obj\Debug\net9.0\refint\Skola_Konstruktor.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\08_OOP\Skola_Konstruktor\Skola_Konstruktor\obj\Debug\net9.0\Skola_Konstruktor.pdb
+C:\Users\mottja\source\PR1-1B-2S(2025)\08_OOP\Skola_Konstruktor\Skola_Konstruktor\obj\Debug\net9.0\Skola_Konstruktor.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\08_OOP\Skola_Konstruktor\Skola_Konstruktor\obj\Debug\net9.0\ref\Skola_Konstruktor.dll
