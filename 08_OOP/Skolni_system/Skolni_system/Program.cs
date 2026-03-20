@@ -18,7 +18,7 @@
             {
                 Console.Clear();
                 Console.WriteLine("Napiš mi, co chceš dělat");
-                Console.WriteLine("1. Zadat studenta\n2. Vygenerovat studenty\n3. Vypsat studety");
+                Console.WriteLine("1. Zadat studenta\n2. Vygenerovat studenty\n3. Vypsat studety\n4. Zadej známku\n5. Vypiš známku");
                 int volba = OverVstup();
                 
                 switch(volba)
@@ -45,6 +45,25 @@
                         }
                         Console.ReadKey();
                         break;
+                    case 4:
+                        Console.WriteLine("Z jakého předmětu:");
+                        string predmet = Console.ReadLine();
+                        Console.WriteLine("Jakou váhu?");
+                        int vaha = OverVstup();
+                        Console.WriteLine("Jakou známku?");
+                        int znamka = OverVstup();
+                        Console.WriteLine("Zadej mi jeho ID?");
+                        int id = OverVstup();
+                        skola[id - 1].PridejZnamku(znamka, vaha, predmet);
+                        break;s
+                    case 5:
+                        Console.WriteLine("Zadej mi ID studenta");
+                        int id_ = OverVstup();
+                        skola[id_ - 1].PredstavSe();
+                        skola[id_ - 1].VypisZnamky();
+                        Console.ReadKey();
+                        break;
+
                 }
             }
         }

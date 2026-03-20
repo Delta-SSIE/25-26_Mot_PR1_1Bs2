@@ -10,6 +10,7 @@ namespace Skolni_system
     {
         private string jmeno;
         private int ID;
+        private Znamka[] znamky;
 
         public Student(int id, bool gen, string jmeno = "")
         {
@@ -46,11 +47,27 @@ namespace Skolni_system
                 this.jmeno = jmeno;
             }
 
+            this.znamky = new Znamka[0];
+
         }
 
         public void PredstavSe()
         {
             Console.WriteLine($"Student {this.jmeno} s ID: {this.ID}");
+        }
+
+        public void PridejZnamku(int znamka, int vaha, string predmet)
+        {
+            Array.Resize(ref this.znamky, this.znamky.Length + 1);
+            znamky[znamky.Length - 1] = new Znamka(znamka, vaha, predmet);
+        }
+
+        public void VypisZnamky()
+        {
+            for (int i = 0; i < this.znamky.Length; i++)
+            {
+                Console.WriteLine(this.znamky[i].VratZnamku());
+            }
         }
 
     }
