@@ -48,5 +48,10 @@ namespace Skolni_system
 
         }
 
+        public void PredstavSe()
+        {
+            Console.WriteLine($"Student {this.jmeno} s ID: {this.ID}");
+        }
+
     }
 }

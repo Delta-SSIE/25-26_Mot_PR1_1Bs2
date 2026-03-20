@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\mottja\\source\\PR1-1B-2S(2025)\\08_OOP\\Skolni_system\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{53CC7717-2A24-4BEC-A6AB-28456C31140A}|Skolni_system\\Skolni_system.csproj|c:\\users\\mottja\\source\\pr1-1b-2s(2025)\\08_oop\\skolni_system\\skolni_system\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53CC7717-2A24-4BEC-A6AB-28456C31140A}|Skolni_system\\Skolni_system.csproj|solutionrelative:skolni_system\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{53CC7717-2A24-4BEC-A6AB-28456C31140A}|Skolni_system\\Skolni_system.csproj|c:\\users\\mottja\\source\\pr1-1b-2s(2025)\\08_oop\\skolni_system\\skolni_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53CC7717-2A24-4BEC-A6AB-28456C31140A}|Skolni_system\\Skolni_system.csproj|solutionrelative:skolni_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53CC7717-2A24-4BEC-A6AB-28456C31140A}|Skolni_system\\Skolni_system.csproj|c:\\users\\mottja\\source\\pr1-1b-2s(2025)\\08_oop\\skolni_system\\skolni_system\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53CC7717-2A24-4BEC-A6AB-28456C31140A}|Skolni_system\\Skolni_system.csproj|solutionrelative:skolni_system\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 260,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\mottja\\source\\PR1-1B-2S(2025)\\08_OOP\\Skolni_system\\Skolni_system\\Student.cs",
               "RelativeDocumentMoniker": "Skolni_system\\Student.cs",
               "ToolTip": "C:\\Users\\mottja\\source\\PR1-1B-2S(2025)\\08_OOP\\Skolni_system\\Skolni_system\\Student.cs",
               "RelativeToolTip": "Skolni_system\\Student.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAowDEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAiwDQAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-20T10:38:57.584Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\mottja\\source\\PR1-1B-2S(2025)\\08_OOP\\Skolni_system\\Skolni_system\\Program.cs",
               "RelativeDocumentMoniker": "Skolni_system\\Program.cs",
               "ToolTip": "C:\\Users\\mottja\\source\\PR1-1B-2S(2025)\\08_OOP\\Skolni_system\\Skolni_system\\Program.cs",
               "RelativeToolTip": "Skolni_system\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAwAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwBQAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-20T10:38:16.795Z",
               "EditorCaption": ""
