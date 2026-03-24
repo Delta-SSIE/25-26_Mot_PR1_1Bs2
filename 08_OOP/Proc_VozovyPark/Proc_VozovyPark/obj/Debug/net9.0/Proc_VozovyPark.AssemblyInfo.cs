@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Proc_VozovyPark")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa296b513fc834683fbd0909943df845a793f6bd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26422a5eb8f193e6b02881fd748cd830f2c15686")]
 [assembly: System.Reflection.AssemblyProductAttribute("Proc_VozovyPark")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Proc_VozovyPark")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
