@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mottja\\source\\PR1-1B-2S(2025)\\08_OOP\\Opakovani_Firma\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB5AE56-A87D-4240-8840-936973708B5D}|Opakovani_Firma\\Opakovani_Firma.csproj|c:\\users\\mottja\\source\\pr1-1b-2s(2025)\\08_oop\\opakovani_firma\\opakovani_firma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB5AE56-A87D-4240-8840-936973708B5D}|Opakovani_Firma\\Opakovani_Firma.csproj|solutionrelative:opakovani_firma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB5AE56-A87D-4240-8840-936973708B5D}|Opakovani_Firma\\Opakovani_Firma.csproj|c:\\users\\mottja\\source\\pr1-1b-2s(2025)\\08_oop\\opakovani_firma\\opakovani_firma\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB5AE56-A87D-4240-8840-936973708B5D}|Opakovani_Firma\\Opakovani_Firma.csproj|solutionrelative:opakovani_firma\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 260,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\mottja\\source\\PR1-1B-2S(2025)\\08_OOP\\Opakovani_Firma\\Opakovani_Firma\\Worker.cs",
+              "RelativeDocumentMoniker": "Opakovani_Firma\\Worker.cs",
+              "ToolTip": "C:\\Users\\mottja\\source\\PR1-1B-2S(2025)\\08_OOP\\Opakovani_Firma\\Opakovani_Firma\\Worker.cs",
+              "RelativeToolTip": "Opakovani_Firma\\Worker.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowDYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T06:18:21.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mottja\\source\\PR1-1B-2S(2025)\\08_OOP\\Opakovani_Firma\\Opakovani_Firma\\Program.cs",
+              "RelativeDocumentMoniker": "Opakovani_Firma\\Program.cs",
+              "ToolTip": "C:\\Users\\mottja\\source\\PR1-1B-2S(2025)\\08_OOP\\Opakovani_Firma\\Opakovani_Firma\\Program.cs",
+              "RelativeToolTip": "Opakovani_Firma\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAIwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T06:16:57.207Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

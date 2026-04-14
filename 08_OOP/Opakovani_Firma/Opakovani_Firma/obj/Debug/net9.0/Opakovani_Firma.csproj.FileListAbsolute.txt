@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2025)\08_OOP\Opakovani_Firma\Opakovani_Firma\bin\Debug\net9.0\Opakovani_Firma.exe
+C:\Users\mottja\source\PR1-1B-2S(2025)\08_OOP\Opakovani_Firma\Opakovani_Firma\bin\Debug\net9.0\Opakovani_Firma.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\08_OOP\Opakovani_Firma\Opakovani_Firma\bin\Debug\net9.0\Opakovani_Firma.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\08_OOP\Opakovani_Firma\Opakovani_Firma\bin\Debug\net9.0\Opakovani_Firma.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\08_OOP\Opakovani_Firma\Opakovani_Firma\bin\Debug\net9.0\Opakovani_Firma.pdb
+C:\Users\mottja\source\PR1-1B-2S(2025)\08_OOP\Opakovani_Firma\Opakovani_Firma\obj\Debug\net9.0\Opakovani_Firma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2025)\08_OOP\Opakovani_Firma\Opakovani_Firma\obj\Debug\net9.0\Opakovani_Firma.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\08_OOP\Opakovani_Firma\Opakovani_Firma\obj\Debug\net9.0\Opakovani_Firma.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2025)\08_OOP\Opakovani_Firma\Opakovani_Firma\obj\Debug\net9.0\Opakovani_Firma.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\08_OOP\Opakovani_Firma\Opakovani_Firma\obj\Debug\net9.0\Opakovani_Firma.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\08_OOP\Opakovani_Firma\Opakovani_Firma\obj\Debug\net9.0\Opakovani_Firma.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\08_OOP\Opakovani_Firma\Opakovani_Firma\obj\Debug\net9.0\refint\Opakovani_Firma.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\08_OOP\Opakovani_Firma\Opakovani_Firma\obj\Debug\net9.0\Opakovani_Firma.pdb
+C:\Users\mottja\source\PR1-1B-2S(2025)\08_OOP\Opakovani_Firma\Opakovani_Firma\obj\Debug\net9.0\Opakovani_Firma.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\08_OOP\Opakovani_Firma\Opakovani_Firma\obj\Debug\net9.0\ref\Opakovani_Firma.dll
