@@ -30,6 +30,14 @@
             {
                 Console.WriteLine(zaznam.Key +": "+zaznam.Value);
             }
+
+            //Remove
+            TelefoniSeznam.Remove("Pepa Omáčka"); //Vymaže položku z slovníku na klíči "Pepa Omáčka"
+
+            //Contains
+            //ContainsKey/Value vrací true/false pokud daný klíč/hodnota je v slovníku
+            Console.WriteLine(TelefoniSeznam.ContainsKey("Pepa Omáčka"));
+            Console.WriteLine(TelefoniSeznam.ContainsValue(483951357));
         }
     }
 }

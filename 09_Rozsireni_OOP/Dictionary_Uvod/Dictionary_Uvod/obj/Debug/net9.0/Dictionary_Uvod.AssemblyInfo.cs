@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Dictionary_Uvod")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f16c0bc613f1ac956ef4c15ae958b9f161ecaf33")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34f31573398abaff3fe029081a4dfe50e385de5a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Dictionary_Uvod")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Dictionary_Uvod")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
