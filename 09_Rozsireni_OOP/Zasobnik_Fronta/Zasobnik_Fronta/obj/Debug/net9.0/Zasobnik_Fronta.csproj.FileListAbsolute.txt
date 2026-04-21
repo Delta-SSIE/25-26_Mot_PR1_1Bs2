@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2025)\09_Rozsireni_OOP\Zasobnik_Fronta\Zasobnik_Fronta\bin\Debug\net9.0\Zasobnik_Fronta.exe
+C:\Users\mottja\source\PR1-1B-2S(2025)\09_Rozsireni_OOP\Zasobnik_Fronta\Zasobnik_Fronta\bin\Debug\net9.0\Zasobnik_Fronta.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\09_Rozsireni_OOP\Zasobnik_Fronta\Zasobnik_Fronta\bin\Debug\net9.0\Zasobnik_Fronta.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\09_Rozsireni_OOP\Zasobnik_Fronta\Zasobnik_Fronta\bin\Debug\net9.0\Zasobnik_Fronta.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\09_Rozsireni_OOP\Zasobnik_Fronta\Zasobnik_Fronta\bin\Debug\net9.0\Zasobnik_Fronta.pdb
+C:\Users\mottja\source\PR1-1B-2S(2025)\09_Rozsireni_OOP\Zasobnik_Fronta\Zasobnik_Fronta\obj\Debug\net9.0\Zasobnik_Fronta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2025)\09_Rozsireni_OOP\Zasobnik_Fronta\Zasobnik_Fronta\obj\Debug\net9.0\Zasobnik_Fronta.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\09_Rozsireni_OOP\Zasobnik_Fronta\Zasobnik_Fronta\obj\Debug\net9.0\Zasobnik_Fronta.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2025)\09_Rozsireni_OOP\Zasobnik_Fronta\Zasobnik_Fronta\obj\Debug\net9.0\Zasobnik_Fronta.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\09_Rozsireni_OOP\Zasobnik_Fronta\Zasobnik_Fronta\obj\Debug\net9.0\Zasobnik_Fronta.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2025)\09_Rozsireni_OOP\Zasobnik_Fronta\Zasobnik_Fronta\obj\Debug\net9.0\Zasobnik_Fronta.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\09_Rozsireni_OOP\Zasobnik_Fronta\Zasobnik_Fronta\obj\Debug\net9.0\refint\Zasobnik_Fronta.dll
+C:\Users\mottja\source\PR1-1B-2S(2025)\09_Rozsireni_OOP\Zasobnik_Fronta\Zasobnik_Fronta\obj\Debug\net9.0\Zasobnik_Fronta.pdb
+C:\Users\mottja\source\PR1-1B-2S(2025)\09_Rozsireni_OOP\Zasobnik_Fronta\Zasobnik_Fronta\obj\Debug\net9.0\Zasobnik_Fronta.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2025)\09_Rozsireni_OOP\Zasobnik_Fronta\Zasobnik_Fronta\obj\Debug\net9.0\ref\Zasobnik_Fronta.dll
