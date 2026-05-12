@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mottja\\source\\PR1-1B-2S(2025)\\09_Rozsireni_OOP\\Csv\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BDB4659-9408-43E9-B8BE-A45535A9CE4C}|Csv\\Csv.csproj|c:\\users\\mottja\\source\\pr1-1b-2s(2025)\\09_rozsireni_oop\\csv\\csv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BDB4659-9408-43E9-B8BE-A45535A9CE4C}|Csv\\Csv.csproj|solutionrelative:csv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BDB4659-9408-43E9-B8BE-A45535A9CE4C}|Csv\\Csv.csproj|c:\\users\\mottja\\source\\pr1-1b-2s(2025)\\09_rozsireni_oop\\csv\\csv\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BDB4659-9408-43E9-B8BE-A45535A9CE4C}|Csv\\Csv.csproj|solutionrelative:csv\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 260,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\mottja\\source\\PR1-1B-2S(2025)\\09_Rozsireni_OOP\\Csv\\Csv\\User.cs",
+              "RelativeDocumentMoniker": "Csv\\User.cs",
+              "ToolTip": "C:\\Users\\mottja\\source\\PR1-1B-2S(2025)\\09_Rozsireni_OOP\\Csv\\Csv\\User.cs",
+              "RelativeToolTip": "Csv\\User.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA0wBAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T06:13:49.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mottja\\source\\PR1-1B-2S(2025)\\09_Rozsireni_OOP\\Csv\\Csv\\Program.cs",
+              "RelativeDocumentMoniker": "Csv\\Program.cs",
+              "ToolTip": "C:\\Users\\mottja\\source\\PR1-1B-2S(2025)\\09_Rozsireni_OOP\\Csv\\Csv\\Program.cs",
+              "RelativeToolTip": "Csv\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T06:13:32.732Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
